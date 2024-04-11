@@ -1,3 +1,3 @@
 # mytest1.github.io
 <br>
-<h2>my first git repository <\h2>
+<h2>my first git repository </h2>
